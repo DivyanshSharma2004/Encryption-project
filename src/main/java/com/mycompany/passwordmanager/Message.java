@@ -1,4 +1,4 @@
-package com.mycompany.messagingappv1;
+package com.mycompany.passwordmanager;
 
 import com.google.gson.Gson;
 

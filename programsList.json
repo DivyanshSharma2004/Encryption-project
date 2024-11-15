@@ -6,5 +6,9 @@
 	{
 		"description":"Start file integrity checker",
 		"className":"FIC"
+	},
+	{
+		"description":"Start Encryptor decryptor",
+		"className":"ED"
 	}
 ]

@@ -1,2 +1,0 @@
-# Secure Messaging App
- 

@@ -90,6 +90,9 @@ public class Launcher {
             case "FIC":
                 FileIntegrityChecker.main(args);
                 break;
+            case "ED":
+                ChatServer.main(args);
+                break;
         }
     }
     private static void executeProgram(String className) {
