@@ -2,5 +2,9 @@
 	{
 		"description":"Start password manager",
 		"className":"PWMNG"
+	},
+	{
+		"description":"Start file integrity checker",
+		"className":"FIC"
 	}
 ]

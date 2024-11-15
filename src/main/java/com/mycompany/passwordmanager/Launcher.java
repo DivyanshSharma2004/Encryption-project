@@ -87,6 +87,9 @@ public class Launcher {
             case "PWMNG":
                 PasswordManagerMain.main(args);
                 break;
+            case "FIC":
+                FileIntegrityChecker.main(args);
+                break;
         }
     }
     private static void executeProgram(String className) {
