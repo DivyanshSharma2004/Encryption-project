@@ -1,3 +1,6 @@
-com\mycompany\passwordmanager\PasswordManagement.class
-com\mycompany\passwordmanager\PasswordManagerMain.class
 com\mycompany\passwordmanager\AESUtilPassMan.class
+com\mycompany\passwordmanager\Launcher.class
+com\mycompany\passwordmanager\PasswordManagement.class
+com\mycompany\passwordmanager\ProgramEntry.class
+com\mycompany\passwordmanager\PasswordManagerMain.class
+com\mycompany\passwordmanager\Launcher$1.class
