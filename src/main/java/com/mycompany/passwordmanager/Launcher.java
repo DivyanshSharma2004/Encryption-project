@@ -91,7 +91,8 @@ public class Launcher {
                 FileIntegrityChecker.main(args);
                 break;
             case "ED":
-                ChatServer.main(args);
+                System.out.println("Sorry! We couldn't get that to work. right click \"ChatServer\" and select \"Run\"");
+                //new Thread(()->{ChatServer.main(args);}).start();
                 break;
         }
     }

@@ -8,7 +8,8 @@
 		"className":"FIC"
 	},
 	{
-		"description":"Start Encryptor decryptor",
+		"description":"Secure message storage",
 		"className":"ED"
+
 	}
 ]
